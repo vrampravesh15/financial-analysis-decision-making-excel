@@ -1,29 +1,53 @@
-# Financial-Analysis-Project
-Excel-based Financial Analysis with supporting documentation
-# **Financial Analysis Project**
+# Financial Analysis Decision Making Excel
 
-### **Objective**
-The *Financial Analysis Project* evaluates business performance using key metrics like **revenue**, **expenses**, and **profitability trends** to support data-driven decisions.
+## Overview
+This project applies Excel-based financial analysis techniques to evaluate loans, annuities, amortization, and investment decisions. It demonstrates how financial functions can support structured decision-making in personal and business finance scenarios.
 
----
+## Problem Statement
+Financial decisions involving loans, annuities, project returns, and investment comparisons require accurate calculation and interpretation. Without structured modeling, decisions may be inefficient or misleading.
 
-### **Excel File**
-**File:** `Financial_Analysis_Report.xlsx`  
-- Input *income* and *expense* data.  
-- View **profit calculations** and **charts**.  
-- Navigate through sheets for detailed insights.
+## Objectives
+- Calculate EMIs and loan repayment structures
+- Analyze annuities and present value concepts
+- Compare projects using NPV and IRR
+- Build financial decision support models in Excel
 
----
+## Tools & Functions Used
+- Microsoft Excel
+- PV
+- PMT
+- NPV
+- IRR
+- XIRR
+- MIRR
+- Amortization Analysis
 
-### **Documentation**
-**File:** `Financial-Analysis-Project-Documentation.pdf`  
-- Describes project *objectives* and *methods*.  
-- Includes *financial ratios*, *summaries*, and *visual analysis*.
+## Methodology
+1. Structured financial scenarios in Excel
+2. Applied core financial formulas
+3. Built amortization and repayment views
+4. Compared investment cases using NPV and IRR
+5. Interpreted outputs into recommendations
 
----
+## Key Insights
+- EMI and amortization views improve repayment understanding
+- NPV supports value-based project comparison
+- IRR supports return-rate comparison across alternatives
+- Different financial metrics can lead to different investment decisions
 
-### **Additional Info**
-- **Created Using:** *Microsoft Excel*  
-- **Developed By:** *[Rampravesh Vishwakarma]*  
-- **Contact:** *[https://www.linkedin.com/in/rampravesh-vishwakarma/]*  
-- **Use Case:** Ideal for *business analysis*, *academic projects*, or *portfolio demonstrations*.
+## Recommendations
+- Use NPV when maximizing total project value is the priority
+- Use IRR when comparing capital efficiency across options
+- Combine multiple metrics rather than relying on a single indicator
+
+## Repository Structure
+- `docs/` – project documentation PDF
+- `assets/` – screenshots of calculations or summary tables
+- `source/` – Excel workbook
+
+## Outcome
+This project demonstrates financial analysis capability using Excel for decision support, investment comparison, and repayment modeling.
+
+## Author
+Rampravesh Vishwakarma  
+Business Analyst / Financial Analyst
