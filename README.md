@@ -48,6 +48,13 @@ Financial decisions involving loans, annuities, project returns, and investment 
 ## Outcome
 This project demonstrates financial analysis capability using Excel for decision support, investment comparison, and repayment modeling.
 
+## Assets
+![Cover](assets/cover.png)
+![EMI Analysis](assets/emi-analysis.png)
+![NPV Analsysis](assets/npv-analysis.png)
+![IRR Analysis](assets/irr-analysis.png)
+![Project Comparison](assets/project-comparison.png)
+
 ## Author
 Rampravesh Vishwakarma  
 Business Analyst / Financial Analyst
